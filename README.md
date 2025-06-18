@@ -3,9 +3,9 @@
 Bridging Gaps,🌉 Building Solutions. I am Passionate coder with a Knack for problem-solving.I have my curiosity in web development, machine learning and the cyber world.
 
 ## 💻 Tech Stack
-- **Frontend:** Html, CSS, Javascript, React, TailwindCSS
+- **Frontend:** Html, CSS,TailwindCSS, Javascript, React, Zustand
 - **Backend:** Node.js, Express, MongoDB, Appwrite
-- **Database:** MongoDB Atlas, Redis
+- **Database:** MongoDB Atlas,PostgreSQL, Redis
 - **Tools:** Git, GitHub, Postman
 
 
